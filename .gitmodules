@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "allocation"]
+	path = allocation
+	url = https://github.com/andrewraim/allocation
 [submodule "fntl"]
 	path = fntl
 	url = https://github.com/andrewraim/fntl
