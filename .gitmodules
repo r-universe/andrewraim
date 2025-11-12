@@ -8,3 +8,6 @@
 [submodule "fntl"]
 	path = fntl
 	url = https://github.com/andrewraim/fntl
+[submodule "vws"]
+	path = vws
+	url = https://github.com/andrewraim/vws
